@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="247e368f-db74-4636-b696-c4ad07117b13" name="ym3438@DESKTOP-GRQ3MBH 2024-05-20 22:47:59" runUser="DESKTOP-GRQ3MBH\ym3438" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2024-05-20T22:47:59.1086290-07:00" queuing="2024-05-20T22:47:59.1086290-07:00" start="2024-05-20T22:47:58.1227675-07:00" finish="2024-05-20T22:47:59.6271003-07:00" />
+  <TestSettings name="default" id="77558b3d-bce2-4fd2-9cbf-47c47168598f">
+    <Deployment runDeploymentRoot="ym3438_DESKTOP-GRQ3MBH_2024-05-20_22_47_59" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="95ec7ebf-5dcf-44a9-8a0b-5575cf228b1c" testId="81b919fd-caaa-3a53-5898-2aa8fabbfc69" testName="myEmailTest6" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001144" startTime="2024-05-20T22:47:59.1120292-07:00" endTime="2024-05-20T22:47:59.1122015-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="95ec7ebf-5dcf-44a9-8a0b-5575cf228b1c">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest6</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6c4277d0-fa1c-4615-a5bb-b70e807ac885" testId="3c0e97b1-ae33-c6c4-0d48-d8eb227acf51" testName="badEmailTest5" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001648" startTime="2024-05-20T22:47:59.0860768-07:00" endTime="2024-05-20T22:47:59.0862952-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c4277d0-fa1c-4615-a5bb-b70e807ac885">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest5</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="438fdaac-9b64-441b-943d-9fddcccbc75d" testId="bfc9ae5a-7b01-af32-f87c-1ce69cdc4714" testName="myEmailTest10" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001203" startTime="2024-05-20T22:47:59.1089825-07:00" endTime="2024-05-20T22:47:59.1091535-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="438fdaac-9b64-441b-943d-9fddcccbc75d">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest10</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9d6eac0d-c27d-42f5-b4aa-f82a66dffb42" testId="d8d6cd4a-dac2-b637-df67-a3e3b6a6ef60" testName="myEmailTest2" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001566" startTime="2024-05-20T22:47:59.1094868-07:00" endTime="2024-05-20T22:47:59.1096978-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9d6eac0d-c27d-42f5-b4aa-f82a66dffb42">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest2</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c3ebb563-c2d5-48fe-8879-fb47658d2ee5" testId="ce27c8fe-f1ec-94c3-5b3e-65140a442806" testName="badEmailTest2" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0002350" startTime="2024-05-20T22:47:59.0842937-07:00" endTime="2024-05-20T22:47:59.0845874-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c3ebb563-c2d5-48fe-8879-fb47658d2ee5">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest2</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="61866781-761f-46a4-86f0-11a7040f1eaf" testId="c73cefb2-d0e3-f25a-d6c7-daf3a926f470" testName="badEmailTest10" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0002326" startTime="2024-05-20T22:47:59.0831896-07:00" endTime="2024-05-20T22:47:59.0835576-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="61866781-761f-46a4-86f0-11a7040f1eaf">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest10</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bd5259fb-00eb-48e6-88db-770585a13609" testId="1c7baf93-8be6-0c9e-cee3-68e5b1396c1a" testName="myEmailTest7" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001260" startTime="2024-05-20T22:47:59.1125408-07:00" endTime="2024-05-20T22:47:59.1127222-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd5259fb-00eb-48e6-88db-770585a13609">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest7</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d0e724cd-222e-4942-b7cc-d75048dc815a" testId="4b3c057a-b0eb-1a1c-73d2-8d7c3d210fdb" testName="badEmailTest3" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001673" startTime="2024-05-20T22:47:59.0849390-07:00" endTime="2024-05-20T22:47:59.0851588-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0e724cd-222e-4942-b7cc-d75048dc815a">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest3</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f72d1788-df5c-4770-862d-fb07e6cae5d0" testId="44af13d4-a57c-2e64-059b-305dce9e7a8a" testName="myEmailTest9" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001217" startTime="2024-05-20T22:47:59.1147073-07:00" endTime="2024-05-20T22:47:59.1156602-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f72d1788-df5c-4770-862d-fb07e6cae5d0">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest9</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="16dc25b0-f069-408a-9e10-4aeef390ad9b" testId="e3e7095f-438f-1dd8-f7b8-e790b7be2d04" testName="myEmailTest4" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001521" startTime="2024-05-20T22:47:59.1108038-07:00" endTime="2024-05-20T22:47:59.1110230-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="16dc25b0-f069-408a-9e10-4aeef390ad9b">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest4</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="64e06059-7c92-492d-9864-e69ce46fad5c" testId="a6af3831-6982-9422-7b0b-ba87520e3dcb" testName="myEmailTest3" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001589" startTime="2024-05-20T22:47:59.1101350-07:00" endTime="2024-05-20T22:47:59.1103961-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="64e06059-7c92-492d-9864-e69ce46fad5c">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest3</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="21e47247-afd2-4a27-8191-9079a6107abe" testId="252b73bd-c81b-f453-f23d-4998aaf1cd2b" testName="badEmailTest1" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0049778" startTime="2024-05-20T22:47:59.0537235-07:00" endTime="2024-05-20T22:47:59.0768539-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="21e47247-afd2-4a27-8191-9079a6107abe">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest1</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3bb3d4c7-0043-4723-83b2-d1c4a4169a2c" testId="d0a3a1d4-94f0-fccf-73ae-64f335966996" testName="badEmailTest7" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001746" startTime="2024-05-20T22:47:59.0874365-07:00" endTime="2024-05-20T22:47:59.0876627-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3bb3d4c7-0043-4723-83b2-d1c4a4169a2c">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest7</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="406677a7-0e2c-4b31-a118-268d7733d6bf" testId="1f9aef7b-5bc7-bc23-758b-b3896872a0a1" testName="badEmailTest4" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001782" startTime="2024-05-20T22:47:59.0855087-07:00" endTime="2024-05-20T22:47:59.0857401-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="406677a7-0e2c-4b31-a118-268d7733d6bf">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest4</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5ae37a03-d102-468a-a6e0-13a8d72ccb35" testId="b8bf1f03-8d61-99cb-2681-be3f77751b83" testName="badEmailTest8" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001624" startTime="2024-05-20T22:47:59.0880020-07:00" endTime="2024-05-20T22:47:59.0882185-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ae37a03-d102-468a-a6e0-13a8d72ccb35">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest8</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5497502c-d8b1-447b-8566-e6f7c556a3f1" testId="dcd237f5-c008-7e07-07d3-26f5db45967e" testName="myEmailTest5" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001337" startTime="2024-05-20T22:47:59.1114122-07:00" endTime="2024-05-20T22:47:59.1116050-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5497502c-d8b1-447b-8566-e6f7c556a3f1">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest5</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0df664f3-e85d-44d1-8030-c8e228d6accf" testId="651955b2-bb54-7606-7101-b9566df2c1fc" testName="myEmailTest8" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001217" startTime="2024-05-20T22:47:59.1141843-07:00" endTime="2024-05-20T22:47:59.1143596-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0df664f3-e85d-44d1-8030-c8e228d6accf">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest8</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a1f99647-c0f7-4bc3-81e3-14d7e98f50ff" testId="01d69c70-17b3-41a7-995d-ff42b70305f4" testName="badEmailTest6" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0004059" startTime="2024-05-20T22:47:59.0866309-07:00" endTime="2024-05-20T22:47:59.0870904-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a1f99647-c0f7-4bc3-81e3-14d7e98f50ff">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest6</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d512c7eb-57b3-4048-aef8-c7d250cce550" testId="fb5b382f-db61-ac54-1d20-9ef1b49240f8" testName="myEmailTest1" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0001211" startTime="2024-05-20T22:47:59.1084552-07:00" endTime="2024-05-20T22:47:59.1086428-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d512c7eb-57b3-4048-aef8-c7d250cce550">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+myEmailTest1</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5ed3b365-e78d-4fce-9c34-0ca1c2e37cea" testId="8493d7b7-8aa3-12ec-2ad9-873995ec8700" testName="badEmailTest9" computerName="DESKTOP-GRQ3MBH" duration="00:00:00.0004319" startTime="2024-05-20T22:47:59.1075363-07:00" endTime="2024-05-20T22:47:59.1080740-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ed3b365-e78d-4fce-9c34-0ca1c2e37cea">
+      <Output>
+        <StdOut>TestContext Messages:&#xD;
+badEmailTest9</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="badEmailTest3" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="4b3c057a-b0eb-1a1c-73d2-8d7c3d210fdb">
+      <Execution id="d0e724cd-222e-4942-b7cc-d75048dc815a" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest3" />
+    </UnitTest>
+    <UnitTest name="myEmailTest1" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="fb5b382f-db61-ac54-1d20-9ef1b49240f8">
+      <Execution id="d512c7eb-57b3-4048-aef8-c7d250cce550" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest1" />
+    </UnitTest>
+    <UnitTest name="badEmailTest9" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="8493d7b7-8aa3-12ec-2ad9-873995ec8700">
+      <Execution id="5ed3b365-e78d-4fce-9c34-0ca1c2e37cea" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest9" />
+    </UnitTest>
+    <UnitTest name="myEmailTest7" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="1c7baf93-8be6-0c9e-cee3-68e5b1396c1a">
+      <Execution id="bd5259fb-00eb-48e6-88db-770585a13609" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest7" />
+    </UnitTest>
+    <UnitTest name="myEmailTest2" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="d8d6cd4a-dac2-b637-df67-a3e3b6a6ef60">
+      <Execution id="9d6eac0d-c27d-42f5-b4aa-f82a66dffb42" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest2" />
+    </UnitTest>
+    <UnitTest name="myEmailTest9" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="44af13d4-a57c-2e64-059b-305dce9e7a8a">
+      <Execution id="f72d1788-df5c-4770-862d-fb07e6cae5d0" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest9" />
+    </UnitTest>
+    <UnitTest name="badEmailTest1" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="252b73bd-c81b-f453-f23d-4998aaf1cd2b">
+      <Execution id="21e47247-afd2-4a27-8191-9079a6107abe" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest1" />
+    </UnitTest>
+    <UnitTest name="badEmailTest10" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="c73cefb2-d0e3-f25a-d6c7-daf3a926f470">
+      <Execution id="61866781-761f-46a4-86f0-11a7040f1eaf" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest10" />
+    </UnitTest>
+    <UnitTest name="badEmailTest2" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="ce27c8fe-f1ec-94c3-5b3e-65140a442806">
+      <Execution id="c3ebb563-c2d5-48fe-8879-fb47658d2ee5" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest2" />
+    </UnitTest>
+    <UnitTest name="badEmailTest7" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="d0a3a1d4-94f0-fccf-73ae-64f335966996">
+      <Execution id="3bb3d4c7-0043-4723-83b2-d1c4a4169a2c" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest7" />
+    </UnitTest>
+    <UnitTest name="badEmailTest8" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="b8bf1f03-8d61-99cb-2681-be3f77751b83">
+      <Execution id="5ae37a03-d102-468a-a6e0-13a8d72ccb35" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest8" />
+    </UnitTest>
+    <UnitTest name="myEmailTest3" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="a6af3831-6982-9422-7b0b-ba87520e3dcb">
+      <Execution id="64e06059-7c92-492d-9864-e69ce46fad5c" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest3" />
+    </UnitTest>
+    <UnitTest name="badEmailTest4" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="1f9aef7b-5bc7-bc23-758b-b3896872a0a1">
+      <Execution id="406677a7-0e2c-4b31-a118-268d7733d6bf" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest4" />
+    </UnitTest>
+    <UnitTest name="badEmailTest5" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="3c0e97b1-ae33-c6c4-0d48-d8eb227acf51">
+      <Execution id="6c4277d0-fa1c-4615-a5bb-b70e807ac885" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest5" />
+    </UnitTest>
+    <UnitTest name="myEmailTest5" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="dcd237f5-c008-7e07-07d3-26f5db45967e">
+      <Execution id="5497502c-d8b1-447b-8566-e6f7c556a3f1" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest5" />
+    </UnitTest>
+    <UnitTest name="myEmailTest4" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="e3e7095f-438f-1dd8-f7b8-e790b7be2d04">
+      <Execution id="16dc25b0-f069-408a-9e10-4aeef390ad9b" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest4" />
+    </UnitTest>
+    <UnitTest name="myEmailTest6" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="81b919fd-caaa-3a53-5898-2aa8fabbfc69">
+      <Execution id="95ec7ebf-5dcf-44a9-8a0b-5575cf228b1c" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest6" />
+    </UnitTest>
+    <UnitTest name="myEmailTest8" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="651955b2-bb54-7606-7101-b9566df2c1fc">
+      <Execution id="0df664f3-e85d-44d1-8030-c8e228d6accf" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest8" />
+    </UnitTest>
+    <UnitTest name="myEmailTest10" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="bfc9ae5a-7b01-af32-f87c-1ce69cdc4714">
+      <Execution id="438fdaac-9b64-441b-943d-9fddcccbc75d" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="myEmailTest10" />
+    </UnitTest>
+    <UnitTest name="badEmailTest6" storage="c:\users\ym3438\source\repos\emailsolution\emailvalidatortest\bin\debug\net8.0\emailvalidatortest.dll" id="01d69c70-17b3-41a7-995d-ff42b70305f4">
+      <Execution id="a1f99647-c0f7-4bc3-81e3-14d7e98f50ff" />
+      <TestMethod codeBase="C:\Users\ym3438\source\repos\EmailSolution\EmailValidatorTest\bin\Debug\net8.0\EmailValidatorTest.dll" adapterTypeName="executor://mstestadapter/v2" className="EmailValidatorTest.EmailValidatorUnitTest" name="badEmailTest6" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="81b919fd-caaa-3a53-5898-2aa8fabbfc69" executionId="95ec7ebf-5dcf-44a9-8a0b-5575cf228b1c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c0e97b1-ae33-c6c4-0d48-d8eb227acf51" executionId="6c4277d0-fa1c-4615-a5bb-b70e807ac885" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bfc9ae5a-7b01-af32-f87c-1ce69cdc4714" executionId="438fdaac-9b64-441b-943d-9fddcccbc75d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8d6cd4a-dac2-b637-df67-a3e3b6a6ef60" executionId="9d6eac0d-c27d-42f5-b4aa-f82a66dffb42" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ce27c8fe-f1ec-94c3-5b3e-65140a442806" executionId="c3ebb563-c2d5-48fe-8879-fb47658d2ee5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c73cefb2-d0e3-f25a-d6c7-daf3a926f470" executionId="61866781-761f-46a4-86f0-11a7040f1eaf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1c7baf93-8be6-0c9e-cee3-68e5b1396c1a" executionId="bd5259fb-00eb-48e6-88db-770585a13609" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b3c057a-b0eb-1a1c-73d2-8d7c3d210fdb" executionId="d0e724cd-222e-4942-b7cc-d75048dc815a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="44af13d4-a57c-2e64-059b-305dce9e7a8a" executionId="f72d1788-df5c-4770-862d-fb07e6cae5d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3e7095f-438f-1dd8-f7b8-e790b7be2d04" executionId="16dc25b0-f069-408a-9e10-4aeef390ad9b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a6af3831-6982-9422-7b0b-ba87520e3dcb" executionId="64e06059-7c92-492d-9864-e69ce46fad5c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="252b73bd-c81b-f453-f23d-4998aaf1cd2b" executionId="21e47247-afd2-4a27-8191-9079a6107abe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0a3a1d4-94f0-fccf-73ae-64f335966996" executionId="3bb3d4c7-0043-4723-83b2-d1c4a4169a2c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1f9aef7b-5bc7-bc23-758b-b3896872a0a1" executionId="406677a7-0e2c-4b31-a118-268d7733d6bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b8bf1f03-8d61-99cb-2681-be3f77751b83" executionId="5ae37a03-d102-468a-a6e0-13a8d72ccb35" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dcd237f5-c008-7e07-07d3-26f5db45967e" executionId="5497502c-d8b1-447b-8566-e6f7c556a3f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="651955b2-bb54-7606-7101-b9566df2c1fc" executionId="0df664f3-e85d-44d1-8030-c8e228d6accf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="01d69c70-17b3-41a7-995d-ff42b70305f4" executionId="a1f99647-c0f7-4bc3-81e3-14d7e98f50ff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb5b382f-db61-ac54-1d20-9ef1b49240f8" executionId="d512c7eb-57b3-4048-aef8-c7d250cce550" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8493d7b7-8aa3-12ec-2ad9-873995ec8700" executionId="5ed3b365-e78d-4fce-9c34-0ca1c2e37cea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="20" executed="20" passed="20" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <CollectorDataEntries>
+      <Collector agentName="DESKTOP-GRQ3MBH" uri="datacollector://microsoft/CodeCoverage/2.0" collectorDisplayName="Code Coverage">
+        <UriAttachments>
+          <UriAttachment>
+            <A href="DESKTOP-GRQ3MBH\ym3438_DESKTOP-GRQ3MBH_2024-05-20.22_47_58.coverage"></A>
+          </UriAttachment>
+        </UriAttachments>
+      </Collector>
+    </CollectorDataEntries>
+  </ResultSummary>
+</TestRun>

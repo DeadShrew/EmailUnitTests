@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name ="goodemail1" value ="edwincopeland@outlook.com" />
+		<Parameter name ="goodemail2" value ="j@joe.com" />
+		<Parameter name ="goodemail3" value ="test@test.com" />
+		<Parameter name ="goodemail4" value ="jane@veeeeeeeeeerylongdomain.com" />
+		<Parameter name ="goodemail5" value ="yahoo@yahoo.com" />
+		<Parameter name ="goodemail6" value ="hotmail@hotmail.com" />
+		<Parameter name ="goodemail7" value ="gmail@gmail.com" />
+		<Parameter name ="goodemail8" value ="org@org.org" />
+		<Parameter name ="goodemail9" value ="mikie@helpdesk.com" />
+		<Parameter name ="goodemail10" value ="hello@hello.com" />
+
+		<Parameter name ="bademail1" value ="edwin copeland@outlook.com" />
+		<Parameter name ="bademail2" value ="joe.com" />
+		<Parameter name ="bademail3" value ="test@test" />
+		<Parameter name ="bademail4" value ="jane@veeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerylongdomain.com" />
+		<Parameter name ="bademail5" value ="@yahoo.com" />
+		<Parameter name ="bademail6" value ="5otmail@hotmail.com" />
+		<Parameter name ="bademail7" value ="gmail@gg.co" />
+		<Parameter name ="bademail8" value ="org @org.org" />
+		<Parameter name ="bademail9" value ="mikie@helpdesk.co5" />
+		<Parameter name ="bademail10" value ="" />
+	</TestRunParameters>
+	<LoggerRunSettings>
+		<Loggers>
+			<Logger friendlyName="console" enabled="True">
+				<Configuration>
+					<Verbosity>quiet</Verbosity>
+				</Configuration>
+			</Logger>
+			<Logger friendlyName="trx" enabled="True">
+				<Configuration>
+					<LogFileName>foo.trx</LogFileName>
+				</Configuration>
+			</Logger>
+			<Logger friendlyName="html" enabled="True">
+				<Configuration>
+					<LogFileName>TestResults.html</LogFileName>
+				</Configuration>
+			</Logger>
+		</Loggers>
+	</LoggerRunSettings>
+
+</RunSettings>

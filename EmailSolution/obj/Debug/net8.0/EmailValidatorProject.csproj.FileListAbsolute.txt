@@ -1,0 +1,15 @@
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailValidatorProject.exe
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailValidatorProject.deps.json
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailValidatorProject.runtimeconfig.json
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailValidatorProject.dll
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailValidatorProject.pdb
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailValidatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailValidatorProject.AssemblyInfoInputs.cache
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailValidatorProject.AssemblyInfo.cs
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailValidatorProject.csproj.CoreCompileInputs.cache
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailValidatorProject.dll
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\refint\EmailValidatorProject.dll
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailValidatorProject.pdb
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailValidatorProject.genruntimeconfig.cache
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\ref\EmailValidatorProject.dll
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailValidatorProject.sourcelink.json

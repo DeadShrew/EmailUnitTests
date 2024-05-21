@@ -1,0 +1,14 @@
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailSolution.exe
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailSolution.deps.json
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailSolution.runtimeconfig.json
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailSolution.dll
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\bin\Debug\net8.0\EmailSolution.pdb
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailSolution.AssemblyInfoInputs.cache
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailSolution.AssemblyInfo.cs
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailSolution.csproj.CoreCompileInputs.cache
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailSolution.dll
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\refint\EmailSolution.dll
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailSolution.pdb
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\EmailSolution.genruntimeconfig.cache
+C:\Users\ym3438\source\repos\EmailSolution\EmailSolution\obj\Debug\net8.0\ref\EmailSolution.dll
